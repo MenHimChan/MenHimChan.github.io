@@ -14,18 +14,14 @@ Current
 
 Short Bio
 ===
-I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at Shantou University, majoring in Communication Engineering, Department of Electronic Engineering. 
-I qualified for direct admission to a postgraduate program by achieving the highest overall scores in the Department of Electronic Engineering. 
-My overall GPA is 3.94/5. As for my English level, i got 507 in CET-6 and 590 in CET-4.
+I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at Department of Electronic Engineering, Shantou University, majoring in Communication Engineering.
+I qualified for direct admission to a postgraduate program by achieving the highest overall scores in the Department of Electronic Engineering. My overall GPA is 3.94/5.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Education
+===
+* Oct. 2020 —— June 2024: B.E. in Communication Engineering, Shantou University.(expected)
+* Oct. 2024 —— June 2027: M.Sc. in School of Communication Engineering, Jilin University.(expected)
+
 
 Site-wide configuration
 ------
