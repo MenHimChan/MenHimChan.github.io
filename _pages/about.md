@@ -19,8 +19,8 @@ I qualified for direct admission to a postgraduate program by achieving the high
 
 Education
 ===
-* Oct. 2020 —— June 2024: B.E. in Communication Engineering, Shantou University.(expected)
-* Oct. 2024 —— June 2027: M.Sc. in School of Communication Engineering, Jilin University.(expected)
+* Oct. 2020 --- June 2024: B.E. in Communication Engineering, Shantou University.(expected)
+* Oct. 2024 --- June 2027: M.Sc. in School of Communication Engineering, Jilin University.(expected)
 
 
 Site-wide configuration
