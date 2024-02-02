@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to WenqianChen's personal page !!"
+title: "WenqianChen's personal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
