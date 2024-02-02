@@ -14,7 +14,9 @@ Current
 
 Short Bio
 ===
-I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at Shantou University, majoring in Communication Engineering, Department of Electronic Engineering. I qualified for direct admission to a postgraduate program by achieving the highest overall scores in the Department of Electronic Engineering. My overall GPA is 3.94/5. As for my English level, i get 507 in CET-6 and 590 in CET-4.
+I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at Shantou University, majoring in Communication Engineering, Department of Electronic Engineering. 
+I qualified for direct admission to a postgraduate program by achieving the highest overall scores in the Department of Electronic Engineering. 
+My overall GPA is 3.94/5. As for my English level, i got 507 in CET-6 and 590 in CET-4.
 
 Getting started
 ======
