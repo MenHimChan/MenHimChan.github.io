@@ -14,8 +14,8 @@ Current
 
 Short Bio
 ===
-I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at Department of Electronic Engineering, Shantou University, majoring in Communication Engineering.  
-*I qualified for direct admission to a postgraduate program by achieving the highest overall scores in the Department of Electronic Engineering.*
+I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at *Department of Electronic Engineering, Shantou University*, majoring in *Communication Engineering*.  
+**I qualified for direct admission to a postgraduate program by achieving the highest overall scores in the Department of Electronic Engineering.**
 
 Education
 ===
