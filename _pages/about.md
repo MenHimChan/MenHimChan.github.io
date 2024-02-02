@@ -14,13 +14,13 @@ Current
 
 Short Bio
 ===
-I am **Wenqian Chen(陈文谦)**, a fourth year old undergraduate student at *Department of Electronic Engineering, Shantou University*, majoring in *Communication Engineering*.
+I am **Wenqian Chen (陈文谦)**, a fourth year old undergraduate student at *Department of Electronic Engineering, Shantou University*, majoring in *Communication Engineering*.
 I qualified for direct admission to a postgraduate program by achieving the highest overall scores in *Department of Electronic Engineering*.
 
 Education
 ===
 * Oct. 2020 --- June 2024: B.E. in Communication Engineering, Shantou University.(expected)
-* Oct. 2024 --- June 2027: M.Sc. in School of Communication Engineering, Jilin University.(expected)
+* Oct. 2024 --- June 2027: M.Sc., School of Communication Engineering, Jilin University.(expected)
 
 
 Site-wide configuration
