@@ -24,7 +24,7 @@ Education
 
 Honors and Awards
 ===
-**Undergraduate:**
+**Undergraduate:**  
 N: National level  P: Provincial level
 * National Undergraduate Electronics Design Contest, **Second Prize(P)**, 2023
 * National College Student Biomedical Engineering Innovation Design Competition, **Third Prize(N)**, 2023
