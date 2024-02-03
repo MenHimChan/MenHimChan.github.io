@@ -10,7 +10,7 @@ redirect_from:
 
 Current
 ===
-*I have been recommended to pursue a master's degree in School of Communication Engineering, Jilin University. Currently, I work as a research assistant(RA) in Artificial Intelligence and Robotics for Society of CUHK(SZ).*
+*I have been recommended to pursue a master's degree in School of Communication Engineering, Jilin University. Currently, I work as a research assistant(RA) in [Artificial Intelligence and Robotics for Society of CUHK(SZ)](https://airs.cuhk.edu.cn/).*
 
 Short Bio
 ===
@@ -22,10 +22,12 @@ Education
 * Oct. 2020 --- June 2024: B.E. in Communication Engineering, Shantou University.(expected)
 * Oct. 2024 --- June 2027: M.Sc. in Communication Engineering, Jilin University.(expected)
 
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Honors and Awards
+===
+***Undergraduate：**
+  * National Undergraduate Electronics Design Contest, **Second Prize at Provincial**, 2023
+  * National College Student Biomedical Engineering Innovation Design Competition, **Third Prize at National**, 2023
+  * 
 
 Create content & metadata
 ------
