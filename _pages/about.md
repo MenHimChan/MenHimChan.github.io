@@ -24,15 +24,15 @@ Education
 
 Honors and Awards
 ===
-**Undergraduate：**
-* National Undergraduate Electronics Design Contest, **Second Prize at Provincial**, 2023
-* National College Student Biomedical Engineering Innovation Design Competition, **Third Prize at National**, 2023
-* [National College Students intelligent Car Race](https://www.bilibili.com/video/BV1UP41167nP/), **Second Prize at Provincial**, 2023
-* National University Students' Opt-Sci-Tech Competition, **Second Prize at Provincial**, 2023
-* [College Students Engineering Practice and Innovation Ability Competition](https://www.bilibili.com/video/BV1Qs4y1S7nz/), **First Prize at Provincial**, 2023
-* Mathematics competition of Chinese College Student, **Second Prize at Provincial**, 2022
-* ["Holtek Cup" Microcontroller Application Design Competition](https://www.bilibili.com/video/BV1tr4y1b7sN/), **First Prize at Provincial**, 2022
-
+**Undergraduate:**
+N: National level  P: Provincial level
+* National Undergraduate Electronics Design Contest, **Second Prize(P)**, 2023
+* National College Student Biomedical Engineering Innovation Design Competition, **Third Prize(N)**, 2023
+* National University Students' Opt-Sci-Tech Competition, **Second Prize(P)**, 2023
+* [National College Students intelligent Car Race](https://www.bilibili.com/video/BV1UP41167nP/), **Second Prize(P)**, 2023
+* [College Students Engineering Practice and Innovation Ability Competition](https://www.bilibili.com/video/BV1Qs4y1S7nz/), **First Prize(P)**, 2023
+* ["Holtek Cup" Microcontroller Application Design Competition](https://www.bilibili.com/video/BV1tr4y1b7sN/), **First Prize(P)**, 2022
+* Mathematics competition of Chinese College Student, **Second Prize(P)**, 2022
 
 Create content & metadata
 ------
