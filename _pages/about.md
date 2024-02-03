@@ -25,6 +25,7 @@ Education
 Honors and Awards
 ===
 **Undergraduate(N: National level   P: Provincial level):**
+* Excellent Student Scholarship of STU, 2023
 * National Undergraduate Electronics Design Contest, **Second Prize(P)**, 2023
 * National University Students' Opt-Sci-Tech Competition, **Second Prize(P)**, 2023
 * [National College Student Biomedical Engineering Innovation Design Competition](https://www.bilibili.com/video/BV1HC411z7pJ/), **Third Prize(N)**, 2023
