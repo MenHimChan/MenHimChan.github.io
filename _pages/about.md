@@ -24,7 +24,7 @@ Education
 
 Honors and Awards
 ===
-***Undergraduate：**
+* **Undergraduate：**
   * National Undergraduate Electronics Design Contest, **Second Prize at Provincial**, 2023
   * National College Student Biomedical Engineering Innovation Design Competition, **Third Prize at National**, 2023
   * 
