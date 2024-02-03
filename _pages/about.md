@@ -10,7 +10,7 @@ redirect_from:
 
 Current
 ===
-*I have been recommended to pursue a master's degree in School of Communication Engineering, Jilin University. Currently, I work as a research assistant(RA) in [Artificial Intelligence and Robotics for Society of CUHK(SZ)](https://airs.cuhk.edu.cn/).*
+*I have been recommended to pursue a master's degree in School of Communication Engineering, Jilin University. Now, I work as a research assistant(RA) in [Artificial Intelligence and Robotics for Society of CUHK(SZ)](https://airs.cuhk.edu.cn/).*
 
 Short Bio
 ===
@@ -27,7 +27,12 @@ Honors and Awards
 * **Undergraduate：**
   * National Undergraduate Electronics Design Contest, **Second Prize at Provincial**, 2023
   * National College Student Biomedical Engineering Innovation Design Competition, **Third Prize at National**, 2023
-  * 
+  * [National College Students intelligent Car Race](https://www.bilibili.com/video/BV1UP41167nP/), **Second Prize at Provincial**, 2023
+  * National University Students' Opt-Sci-Tech Competition, **Second Prize at Provincial**, 2023
+  * Mathematics competition of Chinese College Student, **Second Prize at Provincial**, 2022
+  * [College Students Engineering Practice and Innovation Ability Competition, **First Prize at Provincial**, 2023](https://www.bilibili.com/video/BV1Qs4y1S7nz/)
+  * ["Holtek Cup" Microcontroller Application Design Competition, **First Prize at Provincial**, 2022](https://www.bilibili.com/video/BV1tr4y1b7sN/)
+
 
 Create content & metadata
 ------
