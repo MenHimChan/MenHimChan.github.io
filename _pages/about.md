@@ -31,7 +31,7 @@ Honors and Awards
   * National University Students' Opt-Sci-Tech Competition, **Second Prize at Provincial**, 2023
   * Mathematics competition of Chinese College Student, **Second Prize at Provincial**, 2022
   * [College Students Engineering Practice and Innovation Ability Competition](https://www.bilibili.com/video/BV1Qs4y1S7nz/), **First Prize at Provincial**, 2023
-  * ["Holtek Cup" Microcontroller Application Design Competition]((https://www.bilibili.com/video/BV1tr4y1b7sN/)), **First Prize at Provincial**, 2022
+  * ["Holtek Cup" Microcontroller Application Design Competition](https://www.bilibili.com/video/BV1tr4y1b7sN/), **First Prize at Provincial**, 2022
 
 
 Create content & metadata
