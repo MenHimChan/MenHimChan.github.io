@@ -38,6 +38,7 @@ Experience
 ===
 * Research assistant in AIRS of CUHK(SZ), 2024.1.22 —— 2024.6.1
 
+```script
 <script>
 document.write("Last modifid at: "+document.lastModified+"" )
 </script>
