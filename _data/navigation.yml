@@ -18,11 +18,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
-    url: /year-archive/
-
   - title: "Research"
     url: /publications/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Misc"
     url: /misc/
