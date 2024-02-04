@@ -79,14 +79,15 @@ analytics:
 
 
 # Site Author
+# if you don't want something, for example, "orcid" to display, just delete the content after ":".
 author:
   name             : "WenqianChen(陈文谦)"
   avatar           : "Myphoto.png"
   bio              : "Don't look back, there's light ahead ！ (ง •_•)ง"
   location         : "ShenZhen, Guangdong, China"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "https://airs.cuhk.edu.cn/"
+  pubmed           : 
+  googlescholar    : 
   email            : "wenqianchencat@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
