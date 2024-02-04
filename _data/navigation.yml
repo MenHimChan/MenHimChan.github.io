@@ -23,6 +23,9 @@ main:
 
   - title: "Research"
     url: /publications/
+
+  - title: "Misc"
+    url: /misc/
     
 #  - title: "Guide"
 #    url: /markdown/
