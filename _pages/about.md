@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Current
+Current 👋
 ===
 *I have been recommended to pursue a master's degree in School of Communication Engineering, Jilin University. Now, I work as a research assistant(RA) in **Artificial Intelligence and Robotics for Society of CUHK(SZ)**.*
 
-Short Bio
+Short Bio 🐱
 ===
 I am **Wenqian Chen (陈文谦)**, a fourth year old undergraduate student at *Department of Electronic Engineering, Shantou University*, majoring in *Communication Engineering*.
 I qualified for direct admission to a postgraduate program by achieving the highest overall scores in *Department of Electronic Engineering*.
 
-Education
+Education 🎓
 ===
 * Oct. 2020 --- June 2024: B.E. in Communication Engineering, Shantou University.(expected)
 * Oct. 2024 --- June 2027: M.Sc. in Communication Engineering, Jilin University.(expected)
 
-Honors and Awards
+Honors and Awards 🏆
 ===
 **Undergraduate(N: National level   P: Provincial level):**
 * **Excellent Student Scholarship** of STU, 2023
@@ -34,10 +34,11 @@ Honors and Awards
 * ["Holtek Cup" Microcontroller Application Design Competition](https://www.bilibili.com/video/BV1tr4y1b7sN/), **First Prize(P)**, 2022
 * Mathematics competition of Chinese College Student, **Second Prize(P)**, 2022
 
-Experience
+Experience 💼
 ===
-* Research assistant in [AIRS of CUHK(SZ)](https://airs.cuhk.edu.cn/),  Mentor: [Dr.Hongjun Zhou](https://airs.cuhk.edu.cn/team/879) 2024.1.22 —— 2024.6.1
-
+* Research assistant in [AIRS of CUHK(SZ)](https://airs.cuhk.edu.cn/),  Mentor: [Dr.Hongjun Zhou](https://airs.cuhk.edu.cn/team/879) 2024.1.22 —— 2024.6.1  
+  
+  
 
 Last modified at: 03/02/2024  
 <a href="https://info.flagcounter.com/2xDU"><img src="https://s11.flagcounter.com/count2/2xDU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
