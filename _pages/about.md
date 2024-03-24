@@ -36,7 +36,7 @@ Honors and Awards 🏆
 
 Experience 💼
 ===
-* Research assistant in [AIRS of CUHK(SZ)](https://airs.cuhk.edu.cn/)&ensp;&ensp; (Mentor: [Dr.Hongjun Zhou](https://airs.cuhk.edu.cn/team/879))&ensp;&ensp; 2024.1.22 —— 2024.6.1  
+* Research assistant in [AIRS of CUHK(SZ)](https://airs.cuhk.edu.cn/)&ensp;&ensp; (Mentor: [Dr.Hongjun Zhou](https://airs.cuhk.edu.cn/team/879))&ensp;&ensp; 2024.1——NOW
 <br/>
 <br/>
 <br/>
